@@ -1,4 +1,4 @@
-### Hi there 👋 Abhinay Singh Katheria
+### Hi there ![image](https://user-images.githubusercontent.com/84045337/135664713-3d146998-14a1-47bb-af33-6f903c36ea9d.png Abhinay Singh Katheria
 
 <!--
 **abhinay9601/abhinay9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
