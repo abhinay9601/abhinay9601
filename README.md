@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 ##   About me
 - :school: I am a Computer Science Graduate
 - :technologist: I love using Software as a solution for every `Problem`
-- I am a Web Developer.
+- 🕸️ I am a Web Developer.
 - :thinking: I’m open for:  new `job opportunity`
-- Knowledge of React JS, Node JS, Express JS, SQL
+-  *️⃣ Knowledge of React JS, Node JS, Express JS, SQL
 <!-- -  this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
-- Resume Link: https://drive.google.com/file/d/1b99J5wxiY6aLHmSwkDvjYhmjvfNWQ_Y1/view?usp=share_link
+- ✍️ Resume Link: https://drive.google.com/file/d/1b99J5wxiY6aLHmSwkDvjYhmjvfNWQ_Y1/view?usp=share_link
 
 - :nerd_face: Always `learning new things`
 
-<br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+##  Connect with me
 <p align="center">
 	<a href="mailto:abhinaysingh372@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/abhinay9601"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
