@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 ##   About me
 - :school: I am a Computer Science Graduate
 - :technologist: I love using Software as a solution for every `Problem`
-- 🕸️ I am a Web Developer.
+- 🕸️ I am a Full-Stack Developer at Binoct.
 - :thinking: I’m open for:  new `job opportunity`
--  *️⃣ Knowledge of React JS, Node JS, Express JS, SQL
+-  *️⃣ Talk me abou MERN/MEAN stack.
+-  👀 Love to explore.
 <!-- -  this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
 - ✍️ Resume Link: https://drive.google.com/file/d/1b99J5wxiY6aLHmSwkDvjYhmjvfNWQ_Y1/view?usp=share_link
 
