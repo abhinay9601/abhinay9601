@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -  🔭 Talk me abou MERN/MEAN stack.
 -  👀 Love to explore.
 <!-- -  this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
-- ✍️ Resume Link: https://drive.google.com/file/d/1b99J5wxiY6aLHmSwkDvjYhmjvfNWQ_Y1/view?usp=share_link
+- ✍️ Resume Link: https://drive.google.com/file/d/1bqkKHZPInBPj6rVf4pnxyn0XLXL1TN0V/view
 
 - :nerd_face: Always `learning new things`
 
