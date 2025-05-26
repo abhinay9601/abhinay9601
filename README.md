@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 ##   About me
+🗯️ Talk me about MERN/MEAN, Integrations(Facebook, Whatsapp, Instagram, Google Calander, etc), AI.
 - :school: I am a Computer Science Graduate
 - :technologist: I love using Software as a solution for every `Problem`
 - 🕸️ I am a Full-Stack Developer at Binoct.
